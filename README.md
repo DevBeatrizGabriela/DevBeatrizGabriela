@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz Gabriela! 👋
+### Oi, eu sou a Beatriz Gabriela, estudante e criadora de conteúdo de programação! 👋
 - 🏫 Cursando Ciência da Computação  
 - 🌱 Estudando Back-End (JavaScript & Python)
 
